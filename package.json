@@ -1,0 +1,7 @@
+{
+  "name": "erinome",
+  "dependencies": {
+    "@zeit/integration-utils": "latest",
+    "yarn": "^1.16.0"
+  }
+}
